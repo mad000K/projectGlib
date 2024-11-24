@@ -1,14 +1,13 @@
 {
     "users":[
         {
-<<<<<<< HEAD
             "id": 55,
-            "name": "Vova",
-            "surname": "Pylypenko",
+            "name": "Kolya",
+            "surname": "Kovalenko",
             "photo": "https://www.5.ua/media/pictures/original/194292.jpg?t=1600087834",
             "balance": 2451
         }
-=======
+        {
             "id":6,
             "name":"LEna",
             "surname":"Kuznetsova",
@@ -17,6 +16,5 @@
 
         }
         
->>>>>>> b89832f01f0533ae490f21cf147323dafee16c48
     ]
 }
