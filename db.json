@@ -1,5 +1,11 @@
 {
     "users":[
-        
+        {
+            "id": 55,
+            "name": "Vova",
+            "surname": "Pylypenko",
+            "photo": "https://www.5.ua/media/pictures/original/194292.jpg?t=1600087834",
+            "balance": 2451
+        }
     ]
 }
