@@ -1,11 +1,22 @@
 {
     "users":[
         {
+<<<<<<< HEAD
             "id": 55,
             "name": "Vova",
             "surname": "Pylypenko",
             "photo": "https://www.5.ua/media/pictures/original/194292.jpg?t=1600087834",
             "balance": 2451
         }
+=======
+            "id":6,
+            "name":"LEna",
+            "surname":"Kuznetsova",
+            "photo_url":"https://tengrinews.kz/userdata/news/2021/news_454230/thumb_b/photo_380266.jpeg",
+            "balance": 1500
+
+        }
+        
+>>>>>>> b89832f01f0533ae490f21cf147323dafee16c48
     ]
 }
